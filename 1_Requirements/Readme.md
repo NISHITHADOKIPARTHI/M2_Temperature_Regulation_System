@@ -48,4 +48,7 @@ Automobiles used in the cold regions must have seat heater along with the air-co
  |-----|---------------------------------------------------|-----------------|
  |LR01 |Specify the duty cycles based on temperature       | Implemented     |
  |LR02 |Reliability of the switch connected to seat        | Implemented     |
- 
+  
+
+  ## Circuit
+![All OFF](https://user-images.githubusercontent.com/89698000/133667355-08574e76-b4e7-4db2-b7f9-ebfd292bffb2.png)
