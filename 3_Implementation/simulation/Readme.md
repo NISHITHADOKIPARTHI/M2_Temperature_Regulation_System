@@ -24,10 +24,6 @@
    * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
    * HEAT ADJUST POT 40%, 4 HEAT-LEVEL LED INDICATOR in level 2
    * Oscilloscope showing 40% duty cycle  
-
-            |  Heater On Level 1         |           Heater On Level 2 |
-            |----------------------------|-----------------------------|
-            |![ALL OFF](https://user-images.githubusercontent.com/89698000/133663594-5f3fd727-8611-4590-a0ea-118eced8eeef.png)|![ALL OFF](https://user-images.githubusercontent.com/89698000/133663624-fb6a9c52-8630-4ebc-b89a-0e54365dbcb9.png)|
  * Heater ON Level 3:
      * SEAT SWITCH ON, HEAT SWITCH ON, HEATER LED ON
      * HEAT ADJUST POT 70%, 4 HEAT-LEVEL LED INDICATOR in level 3
