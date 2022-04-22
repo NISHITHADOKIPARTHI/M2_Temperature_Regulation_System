@@ -12,4 +12,7 @@ The system is used to warm the seates of automobiles when used in cold freezing 
 * heat-level indicator (B2 & B3)
 * Oscilloscope (B1)
 
+## Circuit
+![All OFF](https://user-images.githubusercontent.com/89698000/133667355-08574e76-b4e7-4db2-b7f9-ebfd292bffb2.png)
+
 
