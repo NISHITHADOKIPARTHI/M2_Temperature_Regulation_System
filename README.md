@@ -1,4 +1,7 @@
 # M2_Temperature_Regulation_System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ce7bb07721040a88c92943b5f70e703)](https://app.codacy.com/gh/NISHITHADOKIPARTHI/M2_Temperature_Regulation_System?utm_source=github.com&utm_medium=referral&utm_content=NISHITHADOKIPARTHI/M2_Temperature_Regulation_System&utm_campaign=Badge_Grade_Settings)
+
 CodeInspector:
 Codiga - Static Analysis ![Codiga Badge](https://api.codiga.io/project/32875/score/svg)
 
