@@ -6,6 +6,7 @@ Input and connections
 -Seat switch (D0)
 -Heat switch (D1)
 -Heat adjust potentiometer (C0)
+
 Output
 -Heater LED (B0)
 -4 heat-level indicator (B2 & B3)
