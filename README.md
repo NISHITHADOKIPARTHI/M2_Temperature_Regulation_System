@@ -3,6 +3,7 @@ CodeInspector:
 Codiga - Static Analysis ![Codiga Badge](https://api.codiga.io/project/32875/score/svg)
 
 Codiga grade [![Code Grade](https://api.codiga.io/project/33041/status/svg)]
+
 Codacy Badge [![Codacy Badge](https://app.codacy.com/project/badge/Grade/173b8257e5364b8f9f48da2135b63b73)](https://www.codacy.com/gh/NISHITHADOKIPARTHI/M2_Temperature_Regulation_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NISHITHADOKIPARTHI/M2_Temperature_Regulation_System&amp;utm_campaign=Badge_Grade)
 
 ## Introduction
